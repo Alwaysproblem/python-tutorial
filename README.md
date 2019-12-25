@@ -22,7 +22,9 @@
     ```
 
 - git 安装
-  - 
+  - [git](https://git-scm.com/)
+  - 测试
+  ![image](image/git_test.png)
 
 - 环境测试
   - 打开终端
@@ -78,8 +80,12 @@
 
 ## 3. Python 教程
 
-- 打开终端跳到git项目的文件夹
+- 打开终端跳到文件夹， 例如桌面
 
 ```shell
-$ git clone 
+$git clone https://github.com/Alwaysproblem/python-tutorial.git
+
+$cd python-tutorial/
+
+$jupyter notebook
 ```
