@@ -40,3 +40,7 @@ a = {
 }
 print(a)
 print(f"the type of variable a is {'dict' if isinstance(a, dict) == True else 'unknow'}")
+#%%
+a = {1, 2, 3}
+print(a)
+print(f"the type of variable a is {'set' if isinstance(a, set) == True else 'unknow'}")
