@@ -1,4 +1,14 @@
 # %%
+from colorama import  init, Fore, Back, Style
+init(autoreset=True)
+
+def red(s):
+    return Fore.RED + s + Fore.RESET
+
+def PrintRed(s):
+    # print(f"\033[31m{s}")
+    print(red(s))
+
 s = ""
 pat = "Lin"
 rx = 0.04
@@ -13,6 +23,6 @@ for y in range(30, -30, -1):
         else:
             s += " "
     s += "\n"
-print(s)
 
+PrintRed(s)
 # %%
