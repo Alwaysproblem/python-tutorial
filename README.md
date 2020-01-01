@@ -82,10 +82,19 @@
 
 - 打开终端跳到文件夹， 例如桌面
 
-```shell
-$git clone https://github.com/Alwaysproblem/python-tutorial.git
+  ```shell
+  $git clone https://github.com/Alwaysproblem/python-tutorial.git
 
-$cd python-tutorial/
+  $cd python-tutorial/
+  ```
 
-$jupyter notebook
-```
+- 运行 .py 文件
+
+  ```shell
+  $python hello.py
+  ```
+
+- 运行 jupyter python 教程
+  ```shell
+  $jupyter notebook
+  ```
