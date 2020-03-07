@@ -2,6 +2,10 @@
 
 ## 1. 环境搭建
 
+# 亲爱的小甜瓜er 注意啦
+
+# 下面开讲。。。啥？打开
+
 - 下载 python
   - [python](https://www.python.org/)
 
@@ -91,7 +95,7 @@
 - 运行 .py 文件
 
   ```shell
-  $python hello.py
+  $python love.py
   ```
 
 - 运行 jupyter python 教程
