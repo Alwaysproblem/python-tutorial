@@ -36,3 +36,8 @@ print(f"the max value of a is {max(a)}")
 print(f"the min value of a is {min(a)}")
 print(f"the len value of a is {len(a)}")
 print(f"the aboslute value is {abs(-1)}")
+
+#%%
+range(1, 10)
+print(*range(1, 10))
+# %%
