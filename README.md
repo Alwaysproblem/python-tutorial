@@ -2,6 +2,10 @@
 
 ## 1. 环境搭建
 
+# 亲爱的小甜瓜er 注意啦
+
+# 下面开讲。。。啥？打开
+
 - 下载 python
   - [python](https://www.python.org/)
 
@@ -82,10 +86,37 @@
 
 - 打开终端跳到文件夹， 例如桌面
 
-```shell
-$git clone https://github.com/Alwaysproblem/python-tutorial.git
+  ```shell
+  $git clone https://github.com/Alwaysproblem/python-tutorial.git
 
-$cd python-tutorial/
+  $cd python-tutorial/
+  ```
 
-$jupyter notebook
-```
+- 运行 .py 文件
+
+  ```shell
+  $python love.py
+  ```
+
+- 运行 jupyter python 教程
+
+  ```shell
+  $jupyter notebook
+  ```
+
+
+
+<!-- tmp -->
+## python 有 许多 运算符
+
+- 数学运算符
+
+  |  加   |  减   |  乘   |  除   | 整除  | 求余  |  幂   |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  |   +   |   -   |   *   |   /   |  //   |   %   |  **   |
+
+- 比较运算符
+
+  | 等于  | 不等于 | 大于  | 小于  | 小于等于 | 大于等于 |
+  | :---: | :----: | :---: | :---: | :------: | :------: |
+  |  ==   |   !=   |   >   |   <   |    <=    |    >=    |

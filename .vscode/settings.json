@@ -1,3 +1,7 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "/Users/yongxiyang/opt/anaconda3/envs/tf2cpu/bin/python"
+=======
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\tf2gpu\\python.exe"
+>>>>>>> ca6905f9cde567d98328c0d8fc9f1d39cb418e48
 }
